@@ -21,7 +21,7 @@ It shows how user input and logic come together in a visual form.
 
 ## 📸 Demo
 
-![Interactive TextBox Demo](https://github.com/parniamh/InteractiveTextBox/blob/main/assets/InteractiveTextBox-demo.gif?raw=true)
+![Interactive TextBox Demo](assets/TextBox-demo.gif)
 
 ## 📁 Download and Run
 
